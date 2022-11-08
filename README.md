@@ -1,3 +1,7 @@
 # team7_robotics
-
-19951310@gmail.com
+anmolsharma19951310@gmail.com
+Muhammad Azhar Mehboob
+Muhammed Ibrahim
+Anmol Sharma
+Alan Anamthurthil Saju
+Masmoudi Amine
